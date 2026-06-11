@@ -71,13 +71,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=puneethail)
 
 ---
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=puneethail)
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake Animation](https://github.com/puneethail/puneethail/blob/output/github-contribution-grid-snake.svg)
@@ -86,7 +79,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin/in/puneeth-n-ail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin/in/puneeth-n-ail)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=github)](https://puneethail.github.io)
 
