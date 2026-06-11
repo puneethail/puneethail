@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,flask,streamlit,fastapi,langchain,git,github,docker,azure,gcp,postgres,mongodb,r&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,c++,c,pytorch,tensorflow,sklearn,opencv,flask,fastapi,langchain,git,github,r&perline=9" />
   </a>
 </p>
 
