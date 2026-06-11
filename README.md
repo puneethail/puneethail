@@ -1,90 +1,105 @@
-# Hi there 👋, I'm Puneeth N Ail
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MSc+Data+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Developer;AI+Agent+Builder;Open+Source+Contributor" alt="Typing SVG" />
+# Puneeth N Ail
 
-## 🚀 About Me
+### AI/ML Engineer | Voice AI | Agentic Systems
 
-🎓 MSc Data Science Student
+<p>
+  Co-author of an arXiv-published voice security model &nbsp;•&nbsp; Real-time voice AI pipelines &nbsp;•&nbsp; LLMs, RAG & Agentic Systems
+</p>
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and NLP
-
-☁️ Exploring Azure AI, AI Agents, and LLM Applications
-
-💡 Passionate about building real-world AI solutions
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### About Me
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-### Machine Learning & AI
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-
-### Databases & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
-
-### Development
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+<p align="center">
+  Building production-ready AI systems at the intersection of <b>Voice AI</b>, <b>LLMs</b>, <b>RAG</b>, and <b>Agentic Pipelines</b>.
+  <br/>
+  MSc Data Science @ St Aloysius IMRIT &nbsp;|&nbsp; Top 5 of 200+ teams at Christ University Hackathon 2025
+  <br/>
+  Published researcher on real-time malicious speech detection — <b>99.16% accuracy @ 90ms latency</b>.
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 📄 Publication
 
-🔹 Blood Pressure Forecasting using TFT & DeepAR
+**VoiceSHIELD-Small: Real-Time Malicious Speech Detection and Transcription** &nbsp;·&nbsp; [arXiv:2603.07708](https://arxiv.org/abs/2603.07708)
 
-🔹 AI Agent Evaluation Framework
-
-🔹 Food Delivery Backend System
-
-🔹 NLP Applications
-
-🔹 Azure AI Workshop Projects
+> Combined speech transcription and malicious intent detection in a single forward pass using the Whisper-small encoder architecture. Achieved **99.16% threat detection accuracy** with **90ms inference latency** — suitable for production real-time deployment.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puneethail\&show_icons=true)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,flask,streamlit,fastapi,langchain,git,github,docker,azure,gcp,postgres,mongodb,r&perline=9" />
+  </a>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puneethail\&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=puneethail)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=puneethail)
-
----
-## 🐍 Contribution Snake
-
-![Snake Animation](https://github.com/puneethail/puneethail/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <b>LLMs & Voice AI:</b> Pipecat · Whisper · HuggingFace · OpenAI SDK · Gemini API · Google ADK · LangGraph · ChromaDB
+  <br/>
+  <b>Languages:</b> Python · R · SQL · C++ · Java · HTML/CSS/JS
+  <br/>
+  <b>BI & Viz:</b> Tableau · Power BI · Matplotlib · Seaborn · PySpark
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin/in/puneeth-n-ail)
+| Project | Stack | Highlights |
+|---|---|---|
+| 🎙️ **Production AI Voice Agent Pipeline** | Pipecat, WebRTC, Whisper, LLMs, TTS | End-to-end real-time voice agents at sub-100ms latency; VoiceSHIELD integrated inline |
+| 🧠 **AI Mental Health Coach** | Flask, Gemini, Whisper, Murf.ai, LangChain | Top 5 / 200+ teams · Christ University Hackathon 2025 |
+| ❤️ **CardioMind — RAG Cardiology Assistant** | LangChain, Gemini 2.5 Flash, ChromaDB | Semantic search over cardiology PDFs with source attribution |
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=github)](https://puneethail.github.io)
+### 📊 GitHub Highlights
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:puneethail02.com)
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puneethail&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneethail&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-⭐ If you like my work, consider following me and starring my repositories!
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=puneethail&theme=flat&no-frame=true&column=7" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/puneethail/puneethail/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/puneethail/puneethail/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/puneethail/puneethail/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://puneethail.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:puneethail02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/puneeth-n-ail" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/puneethail" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://arxiv.org/abs/2603.07708" target="_blank"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building the future of Voice AI, one pipeline at a time.</i>
+</p>
