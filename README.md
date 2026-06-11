@@ -36,9 +36,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,c,pytorch,tensorflow,sklearn,opencv,flask,fastapi,langchain,git,github,r&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,sklearn,opencv,flask,fastapi&perline=9" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,azure,gcp,postgres,mongodb,r,langchain&perline=9" />
   </a>
 </p>
+
 
 <p align="center">
   <b>LLMs & Voice AI:</b> Pipecat · Whisper · HuggingFace · OpenAI SDK · Gemini API · Google ADK · LangGraph · ChromaDB
